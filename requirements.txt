@@ -1,2 +1,6 @@
 nmap
 pip
+beautifulsoup4
+cfscrape
+requests
+urllib3
