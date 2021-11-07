@@ -1,3 +1,2 @@
 nmap
-python3.6
 pip
