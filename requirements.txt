@@ -17,3 +17,8 @@ requests
 urllib3
 webtech
 requests
+bs4
+colorama
+phonenumbers
+html5lib
+argparse
